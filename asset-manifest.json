@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.3f8dc95d.css",
-    "main.js": "/MyPortfolio/static/js/main.b3edb7bf.js",
+    "main.css": "/MyPortfolio/static/css/main.c4f5af17.css",
+    "main.js": "/MyPortfolio/static/js/main.7e75dbad.js",
     "static/js/592.a76b83c4.chunk.js": "/MyPortfolio/static/js/592.a76b83c4.chunk.js",
     "static/media/Myphoto.jpg": "/MyPortfolio/static/media/Myphoto.e67ff85799ca386a41e5.jpg",
     "static/media/Myphoto2.jpg": "/MyPortfolio/static/media/Myphoto2.e8afa219ee0b1662b707.jpg",
     "static/media/navindia.png": "/MyPortfolio/static/media/navindia.9a8729f6252470c727c8.png",
     "static/media/portfolio.png": "/MyPortfolio/static/media/portfolio.56b10648da170e7a8e04.png",
+    "static/media/resume.pdf": "/MyPortfolio/static/media/resume.10566edb1f432c21c115.pdf",
     "static/media/inspiration1.jpg": "/MyPortfolio/static/media/inspiration1.ff37a61c40d3d59f3bb6.jpg",
     "static/media/icons8-twitter.gif": "/MyPortfolio/static/media/icons8-twitter.c11d310e40e9f78d09b5.gif",
     "static/media/capitalineawsdb.jpg": "/MyPortfolio/static/media/capitalineawsdb.d9d78a01b03dd396a544.jpg",
@@ -17,12 +18,12 @@
     "static/media/slick.ttf": "/MyPortfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/MyPortfolio/index.html",
     "static/media/slick.woff": "/MyPortfolio/static/media/slick.295183786cd8a1389865.woff",
-    "main.3f8dc95d.css.map": "/MyPortfolio/static/css/main.3f8dc95d.css.map",
-    "main.b3edb7bf.js.map": "/MyPortfolio/static/js/main.b3edb7bf.js.map",
+    "main.c4f5af17.css.map": "/MyPortfolio/static/css/main.c4f5af17.css.map",
+    "main.7e75dbad.js.map": "/MyPortfolio/static/js/main.7e75dbad.js.map",
     "592.a76b83c4.chunk.js.map": "/MyPortfolio/static/js/592.a76b83c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f8dc95d.css",
-    "static/js/main.b3edb7bf.js"
+    "static/css/main.c4f5af17.css",
+    "static/js/main.7e75dbad.js"
   ]
 }
